@@ -44,6 +44,8 @@ This project simulates a smart emergency response ecosystem. It bridges physical
 
 ## Data Structures
 
+The diagram below illustrates the core Java class structures and data models used across the system. It outlines all the entities used in this project.
+
 ![](figures/data_structures.png)
 
 ---
